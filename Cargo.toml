@@ -1,0 +1,12 @@
+[package]
+name = "dengan"
+version = "0.1.0"
+edition = "2021"
+authors = ["Ryo Watahiki <coding.watahiki@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+keywords = ["vision"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
